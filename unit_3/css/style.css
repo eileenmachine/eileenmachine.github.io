@@ -1,0 +1,45 @@
+div {
+	width: horizontal;
+	height: 450px;
+	margin-left: 0px;
+}
+
+#topimage {
+	background: url("https://www.myjewishlearning.com/wp-content/uploads/2003/04/passover-seder-1.jpg");
+}
+
+#paragraph {
+	background: #FFF;
+	padding-left: 12%;
+	padding-right: 12%;
+}
+
+h1{
+	font-family: "Proxima Nova", Arial, sans-serif;
+	font-size: 36px;
+	color: #fff;
+}
+
+hr{
+  width: 400px;
+}
+
+body {
+	text-align: center;
+	font-family: "Proxima Nova", Arial, sans-serif;
+	color: #000;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+#slogan{
+	font-style: italic;
+	color: #FFF;
+}
+
+p{
+  font-size: 18px;
+}
